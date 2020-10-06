@@ -1,0 +1,2 @@
+class FootsController < ApplicationController
+end
